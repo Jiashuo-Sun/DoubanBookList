@@ -3,14 +3,14 @@
 [Douban Book](https://book.douban.com) is the largest book review website in China. 
 In the website of particular book, it has the book name, auther, isbn, average review score, and review number.
 
-![webpage]()
+![webpage](https://github.com/Jiashuo-Sun/DoubanBookList/blob/master/demo_image/page.png)
 
 In this project, I use web crawler to grab book infomation from Douban Book and clean & merge books from different versions. Rank the top 500 high-score booklist. 
 
 
 ## Project Structure
 
-![Structure]()
+![Structure](https://github.com/Jiashuo-Sun/DoubanBookList/blob/master/demo_image/Structure.png)
 
 ## Main datasets
 1. Book Link Set

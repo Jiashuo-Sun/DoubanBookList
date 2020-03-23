@@ -1,0 +1,11 @@
+User-agent: *
+Disallow: /subject_search
+Disallow: /search
+Disallow: /new_subject
+Disallow: /service/iframe
+Disallow: /j/
+Sitemap: http://www.douban.com/sitemap_index.xml
+Sitemap: http://www.douban.com/sitemap_updated_index.xml
+
+User-agent: Wandoujia Spider
+Disallow: /

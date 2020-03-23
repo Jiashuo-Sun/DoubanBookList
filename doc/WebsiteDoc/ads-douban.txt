@@ -1,0 +1,47 @@
+google.com, pub-4830389020085397, DIRECT, f08c47fec0942fa0
+#adm
+admaru.com, 541001, DIRECT
+google.com, pub-2851655022815621, RESELLER, f08c47fec0942fa0
+google.com, pub-4423343305100245, RESELLER, f08c47fec0942fa0
+spotxchange.com, 143752, RESELLER, 7842df1d2fe2db34
+spotx.tv, 143752, RESELLER, 7842df1d2fe2db34
+advertising.com, 23155, RESELLER
+aps.amazon.com,5b99deec-2705-4b22-864b-7674a8e446e3,DIRECT
+pubmatic.com,157150,RESELLER,5d62403b186f2ace
+openx.com,540191398,RESELLER,6a698e2ec38604c6
+rubiconproject.com,18020,RESELLER,0bfd66d529a55807
+appnexus.com,1908,RESELLER,f5ab79cb980f11d1
+adtech.com,12068,RESELLER
+districtm.io,100962,RESELLER
+rhythmone.com,1654642120,RESELLER,a670c89d4a324e47
+ucfunnel.com, par-AEEE848DB47AB82089ADA2D3E9E9DE3, DIRECT
+aralego.com, par-AEEE848DB47AB82089ADA2D3E9E9DE3, DIRECT
+indexexchange.com, 190528, DIRECT
+smartyads.com, 12481, DIRECT, fd2bde0ff2e62c5d
+ad-generation.jp,12474,RESELLER
+appnexus.com,3663,RESELLER,f5ab79cb980f11d1
+#tab
+taboola.com,1196242,DIRECT,c228e6794e811952
+spotx.tv,71451,RESELLER
+spotxchange.com, 71451, RESELLER
+advertising.com, 8603, RESELLER
+pubmatic.com, 156307, RESELLER, 5d62403b186f2ace
+appnexus.com, 3364, RESELLER
+Indexexchange.com, 183756, RESELLER
+contextweb.com, 560382, RESELLER
+openx.com, 539154393, RESELLER
+tremorhub.com, z87wm, RESELLER, 1a4e959a1b50034a
+rubiconproject.com, 16698, RESELLER, 0bfd66d529a55807
+freewheel.tv, 799841, RESELLER
+freewheel.tv, 799921, RESELLER
+aol.com, 53392, RESELLER
+rhythmone.com, 1166984029, RESELLER, a670c89d4a324e47
+smartadserver.com, 3563, RESELLER
+beachfront.com, 13749, RESELLER, e2541279e8e2ca4d
+advertising.com, 28458, RESELLER
+admanmedia.com, 556, RESELLER
+#cheng
+google.com, pub-1937576406332709, RESELLER, f08c47fec0942fa0
+google.com, pub-8371749267191729, RESELLER, f08c47fec0942fa0 
+#id
+google.com, pub-8831771699398612, RESELLER, f08c47fec0942fa0

@@ -33,6 +33,6 @@ Drop books without enough review number and clean the book infomation from BookI
 
 5. [History data of Clean Book Info](https://github.com/Jiashuo-Sun/DoubanBookList/tree/master/history_data)
 
-Since I'm still scraping data from website daily, I will update the cleaned book infomation set every day and save it in the history for future filtering. 
+Since I'm still scraping data from website daily, I will update the CleanBookInfo dataset every day and save it in the history_data for future filtering. 
 
 (I'm still working on this! Keep Updating~~)

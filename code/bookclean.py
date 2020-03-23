@@ -1,5 +1,6 @@
 import os
 import pandas as pd
+from datetime import datetime
 
 def cleanlink(url):
     url = url.split('?')[0]
@@ -35,4 +36,8 @@ if __name__ == '__main__':
         else:
             CleanBookInfo = CleanBookInfo.append(cleanData.iloc[i])
 
+    CleanBookInfo.sort_values(by = ['Avg','Num'],ascending = False, inplace = True)
+
     CleanBookInfo.to_csv(datapath+'CleanBookInfo.csv', index = False, header = False)
+    historydatapath = os.path.join(os.path.dirname(os.getcwd()),'history_data/')
+    CleanBookInfo.to_csv(historydatapath+'CleanBookInfo_'+''.join(str(datetime.today().date()).split('-'))+'.csv', index = False, header = False)

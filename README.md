@@ -12,6 +12,8 @@ In this project, I use web crawler to grab book infomation from Douban Book and 
 
 ![Structure](https://github.com/Jiashuo-Sun/DoubanBookList/blob/master/demo_image/Structure.png)
 
+You can check some book list results in [BookList](https://github.com/Jiashuo-Sun/DoubanBookList/blob/master/BookList).
+
 ## Main datasets
 
 You can find these datasets in [data](https://github.com/Jiashuo-Sun/DoubanBookList/tree/master/data).
@@ -38,6 +40,9 @@ By inputing the minimum average review score and minimun review number, [booklis
 
 Since I'm still scraping data from website daily, I will update the CleanBookInfo dataset every day and save it in the history_data for future filtering. 
 
-**I export one data list as a PDF file, you can check [here](https://github.com/Jiashuo-Sun/DoubanBookList/blob/master/BookList/BookList_9_500_20200323.pdf)**
+**I export one data list as a PDF file, you can find a completed one  [here](https://github.com/Jiashuo-Sun/DoubanBookList/blob/master/BookList/BookList_9_500_20200323.pdf)**
+
+
+Happy Reading!
 
 (I'm still working on this! Keep Updating~~)

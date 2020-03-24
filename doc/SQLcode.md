@@ -26,6 +26,6 @@ lines terminated by '\n';
 ```
 
 ``` CMD
-sudo mv /tmp/BookList_9_500.csv ~/Desktop/WebCrawler/
+sudo mv /tmp/BookList_9_500.csv ~/Desktop/DoubanBookList/
 ```
 
